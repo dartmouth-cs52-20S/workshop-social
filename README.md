@@ -1,6 +1,6 @@
 # CS52 Workshops:  Social Media Auth Integration! 
 
-![](https://media.giphy.com/media/e7yNPQmGUozyU/giphy.gif)
+![](https://media.giphy.com/media/gcajW7oKirCdW/giphy.gif)
 
 Authentication is a necessary feature for any app or website that wants to keep its users' information safe. In lab 5 part 2, we created our own authentication, but realistically developers would need something more robust and secure. This is where social media authentication comes in. Social media companies such as Facebook, Google, and Twitter provide their own authentication APIs that allow users to easily log in with their own credentials for that website to become authenticated users. These authentication APIs are secure and easy to use, so they are a great choice for creating a safe user experience. Let's see how we can integrate one of these authentication APIs into our web apps!
 
