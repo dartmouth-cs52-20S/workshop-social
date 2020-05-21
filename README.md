@@ -130,7 +130,7 @@ responseFacebook = (response) => {
   }
 ```
 
-
+In the `response` object we receive from Facebook is an accessTooken which, along with the facebookid, is what we might send to our own API server to then double check with Facebook that our user is authenticated. If you choose to integrate social media auth in your final projects, the accessToken will be super important for validating auth. 
 
 <details>
  <summary>Your final Facebook.js file </summary>
